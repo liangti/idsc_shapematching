@@ -12,4 +12,3 @@ or 80 or maybe less. But when I do the inversion, the match point reach 98 99! A
 
 Second I solve the symmetry problem. It is show in elephant.bmp and elephant34.bmp. 
 
-Any question please connect me. My email:469140303@qq.com
